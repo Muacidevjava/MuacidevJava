@@ -59,4 +59,5 @@
 
 # Projetos em Andamentos
 - [AutoPecas Online](https://github.com/Muacidevjava/AutoPecas.git).
+- [loja virtual em Java](https://github.com/Muacidevjava/loja_virtual_java.git).
 
