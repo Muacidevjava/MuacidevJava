@@ -63,6 +63,7 @@
 - [Gerador de Senha](https://github.com/Muacidevjava/Gerador-de-senha.git).
 - [Simulador de Telefone em java](https://github.com/Muacidevjava/Iphone-Java.git).
 - [ERP em Java Básico ](https://github.com/Muacidevjava/ERP-Em-Java-Basico.git).
+- [Gerador de senha em Ruby](https://github.com/Muacidevjava/ruby.git).
 
 # Projetos em Andamentos
 - [AutoPecas Online](https://github.com/Muacidevjava/AutoPecas.git).
