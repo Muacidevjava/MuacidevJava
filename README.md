@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
-https://github-readme-stats.vercel.app/api/top-langs/?username=Muacidevjava&theme=blue-gree
+   ![Muaci](https://github-readme-stats.vercel.app/api/top-langs/?username={Muacidevjava}&theme=blue-gree).
 
 ###
 </div>
