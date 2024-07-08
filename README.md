@@ -16,11 +16,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-###
+
 </div>
 
 <!-- GithubStats -->
-<!--![Muaci GitHub stats](https://github-readme-stats.vercel.app/api?username=MuacidevJava&show_icons=true&theme=merko) -->
+![Muaci GitHub stats](https://github-readme-stats.vercel.app/api?username=MuacidevJava&show_icons=true&theme=merko) 
 
 <!-- GIF -->
 <p align="left">
@@ -51,12 +51,7 @@
    
    
 </div> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MuacidevJava" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuacidevJava&layout=compact&langs_count=8&card_width=320" />
-</a>
+
    
 ###
 </div>
