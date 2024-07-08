@@ -3,6 +3,7 @@
  👋 Olá, sou Muaci, seja Bem-vindo(a) ao meu perfil! Sou apaixonado(a) por programação e estou em constante busca por conhecimento e desafios que me permitam aprimorar minhas habilidades
 
 🌱 Estou sempre em busca de desafios e oportunidades para colaborar em projetos inovadores.
+ 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/muaci-jos%C3%A9-a434a0279/" target="_blank">
@@ -46,6 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
+https://github-readme-stats.vercel.app/api/top-langs/?username=Muacidevjava&theme=blue-gree
 
 ###
 </div>
