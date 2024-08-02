@@ -66,6 +66,6 @@
 - [Gerador de senha em Ruby](https://github.com/Muacidevjava/ruby.git).
 - [Api-park em Java](https://github.com/Muacidevjava/park_api.git).
 
-# Projetos em Andamentos
+# Projetos em Andamento
 - [loja virtual em Java](https://github.com/Muacidevjava/loja_virtual_java.git).
 
