@@ -31,10 +31,8 @@
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
 <div align="left">
-
-
+   https://icongr.am/devicon/php-original.svg?size=101&color=currentColor 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
